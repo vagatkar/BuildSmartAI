@@ -1,0 +1,11 @@
+Phase,Activity,Category,Planned Start,Planned Finish,Actual Start,Actual Finish,Progress %,Status,Contractor,Budget (INR),Actual Cost (INR),Risk
+Design & approvals,Architectural drawings approved,Design,2026-01-05,2026-01-20,2026-01-05,2026-01-19,100,Completed,Apex Design Studio,85000,82000,Low
+Site preparation,Site clearing and grading,Sitework,2026-01-15,2026-02-10,2026-01-18,2026-02-15,100,Completed,GroundWorks Co.,210000,225000,Medium
+Foundations,Foundation and excavation,Structure,2026-02-01,2026-03-10,2026-02-12,2026-03-25,100,Completed,CoreBuild Contractors,480000,525000,High
+Structure,Ground floor slab,Structure,2026-03-05,2026-04-05,2026-03-28,2026-04-20,100,Completed,CoreBuild Contractors,390000,405000,Medium
+Structure,First-floor framing,Structure,2026-04-01,2026-05-15,2026-04-25,2026-06-05,85,In progress,CoreBuild Contractors,520000,505000,High
+MEP,Electrical rough-in,MEP,2026-05-01,2026-06-10,2026-05-20,2026-06-25,65,In progress,BrightWire Systems,175000,168000,Medium
+MEP,Plumbing rough-in,MEP,2026-05-10,2026-06-20,2026-05-25,2026-06-30,55,In progress,FlowLine Services,160000,154000,Medium
+Envelope,Roofing and weatherproofing,Envelope,2026-06-01,2026-07-10,,,20,At risk,Peak Roofing,230000,48000,High
+Interiors,Drywall and internal finishes,Interiors,2026-07-01,2026-08-20,,,0,Not started,FinishPro,310000,0,Low
+Handover,"Testing, inspection and handover",Handover,2026-08-15,2026-09-15,,,0,Not started,Project Team,95000,0,Medium
