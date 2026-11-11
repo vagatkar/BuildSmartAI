@@ -1,0 +1,5 @@
+Risk ID,Description,Type,Severity,Owner,Due Date,Status,Suggested Action
+R-01,First-floor framing is behind baseline,Schedule,High,CoreBuild Contractors,2026-06-10,Open,Review labour availability and recovery plan
+R-02,Roofing start depends on structure completion,Dependency,High,Peak Roofing,2026-06-18,Open,Confirm handover date and material readiness
+R-03,Foundation package exceeded budget,Cost,Medium,CoreBuild Contractors,2026-03-25,Monitoring,Validate variation and approve cost baseline
+R-04,MEP rough-in coordination may create rework,Quality,Medium,Project Manager,2026-06-20,Open,Run joint coordination walk-through
